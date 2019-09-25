@@ -1,2 +1,2 @@
 # angular-blog
-Base application template
+Base angular application template
